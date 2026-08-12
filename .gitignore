@@ -6,3 +6,9 @@ docs/doxygen
 lotus_logs/*
 .ipynb_checkpoints
 *.rviz
+
+# Environnements virtuels Python (ex: examples/jupyter-python/.venv)
+.venv/
+
+# Réglages Claude Code propres à la machine
+.claude/settings.local.json
