@@ -15,3 +15,9 @@ log/
 result
 result-*
 .direnv/
+
+# Environnements virtuels Python (ex: examples/jupyter-python/.venv)
+.venv/
+
+# Réglages Claude Code propres à la machine
+.claude/settings.local.json
